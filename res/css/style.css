@@ -120,11 +120,11 @@ body {
 }
 .body_top_img {
     width: 30%;
-    margin-top: 10%;
+    margin-top: 12%;
 }
 .body_top_item_type {
     font-size: 14px;
-    font-weight: 600;
+    font-weight: 500;
     margin-top: 10px;
 }
 .body_bottom_img {
