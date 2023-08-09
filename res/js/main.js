@@ -2,7 +2,7 @@
 const typeNew = [
     {type: 'ALL', url:'http://172.31.75.154:18180'}, //全模块
     {type: 'E10', url:'http://172.31.75.154:18180'}, // E10 Lite
-    {type: 'T100', url:'https://chaoyue8.vip'} // T100 Lite
+    {type: 'T100', url:'http://172.31.75.141:9190/'} // T100 Lite
 ]
 // 其它
 const types = [
